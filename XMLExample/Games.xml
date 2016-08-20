@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Games>
+    <Game Title="Quake" Year="1997">Good</Game>
+    <Game Title="Quake 2" Year="1998">Fair</Game>
+    <Game Title="Half Life" Year="1998">Decent</Game>
+    <Game Title="Quake 3" Year="2000">Satisfying</Game>
+    <Game Title="Half Life 2" Year="2003">Great</Game>
+</Games>
