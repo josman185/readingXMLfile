@@ -2,8 +2,8 @@
 //  ViewController.m
 //  XMLExample
 //
-//  Created by MCS on 3/30/16.
-//  Copyright © 2016 MCS. All rights reserved.
+//  Created by jose on 3/30/16.
+//  Copyright © 2016 jose. All rights reserved.
 //
 
 #import "ViewController.h"
